@@ -57,13 +57,13 @@ Selain itu, **admin** dapat mengelola data produk, kategori, pelanggan, laporan 
 > ⚠️ *Ganti URL gambar di bawah ini dengan screenshot asli proyek kalian (misalnya dari folder `/screenshots` di repo GitHub).*
 
 **1. Halaman Home**  
-![Home Page](https://via.placeholder.com/800x400?text=Home+Page+Preview)
+![Home Page](joinmart/Screnshorts/home.png)
 
 **2. Detail Produk & Keranjang**  
-![Detail Produk](https://via.placeholder.com/800x400?text=Product+Details+Preview)
+![Detail Produk](joinmart/Screnshorts/checkout.png)
 
 **3. Dashboard Admin**  
-![Admin Dashboard](https://via.placeholder.com/800x400?text=Admin+Dashboard+Preview)
+![Admin Dashboard](joinmart/Screnshorts/dashboard_admin.png)
 
 ---
 
